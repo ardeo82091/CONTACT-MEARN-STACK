@@ -1,0 +1,19 @@
+.login{
+    display: block;
+    margin-top: 100px;
+    margin-left: 500px;
+    background-color: transparent;
+    text-align:right;
+    width: 1000px
+}
+
+.btn btn-primary{
+    text-align: center;
+}
+
+label {
+    display: inline-block;
+    color: rgb(238, 238, 245);
+    text-align: right;
+    margin-bottom: 0.5rem;
+}

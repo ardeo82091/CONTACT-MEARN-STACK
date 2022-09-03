@@ -1,0 +1,48 @@
+
+.createUser{
+    text-align:right;
+    background: rgba(62, 78, 90, 0.9);
+    padding: 75px;
+    max-width: 600px;
+    margin: 40px auto;
+    border-radius: 4px;
+}
+
+.updateUser{
+    text-align:right;
+    background: #484d50;
+    padding: 75px;
+    max-width: 600px;
+    margin: 40px auto;
+    border-radius: 4px;
+}
+
+.deleteUser{
+    text-align:right;
+    background: #505f69;
+    padding: 75px;
+    max-width: 600px;
+    margin: 40px auto;
+    border-radius: 4px;
+}
+
+.row {
+    width: 100%;
+    max-width: 1500px;
+    min-height: 100px;
+    margin: 30px;
+    display: inline-flex;
+    grid-template-columns: 2fr 4fr;
+}
+label {
+    display: inline-block;
+    color: rgb(238, 238, 245);
+    text-align: right;
+    margin-bottom: 0.5rem;
+}
+
+.heading{
+    color: darkgoldenrod;
+    border-style: solid;
+}
+

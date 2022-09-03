@@ -1,0 +1,8 @@
+.createUser{
+    text-align:right;
+    background: rgba(62, 78, 90, 0.9);
+    padding: 75px;
+    max-width: 600px;
+    margin: 40px auto;
+    border-radius: 4px;
+}
